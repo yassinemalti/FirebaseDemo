@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872229144784",
+    "firebase_url": "https://fir-demo-e17e4.firebaseio.com",
+    "project_id": "fir-demo-e17e4",
+    "storage_bucket": "fir-demo-e17e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872229144784:android:2e8444ef9f5cef3f",
+        "android_client_info": {
+          "package_name": "com.wordpress.yassinemalti.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872229144784-821a9pdu6dservd8ph7vjmt9lp6kngkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQUfoiIjr8HhzjuAqVjc4BC7awqi6n4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
