@@ -17,13 +17,9 @@
         </activity>
 
         <service
-            android:name=".MyFirebaseService"
-            android:label="MyFirebaseService" >
-            <intent-filter>
-                <action android:name="com.wordpress.yassinemalti.firebasedemo.MyFirebaseService" />
-            </intent-filter>
-        </service>
-
+            android:name=".MyBackgroundService"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>
