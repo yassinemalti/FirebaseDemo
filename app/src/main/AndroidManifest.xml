@@ -18,8 +18,7 @@
 
         <service
             android:name=".MyFirebaseService"
-            android:exported="false"
-            android:process=":remote" >
+            android:label="MyFirebaseService" >
             <intent-filter>
                 <action android:name="com.wordpress.yassinemalti.firebasedemo.MyFirebaseService" />
             </intent-filter>
